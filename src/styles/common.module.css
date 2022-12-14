@@ -1,0 +1,34 @@
+.colorNav {
+  background-color: #0065ff !important;
+}
+
+.githubButtonColor {
+  background-color: #161b22 !important;
+}
+
+.githubButtonColor:hover {
+  background-color: #585e65 !important;
+}
+
+.linkedinButtonColor {
+  background-color: #0a66c2 !important;
+}
+
+.linkedinButtonColor:hover {
+  background-color: #1784f0 !important;
+}
+
+.activeTab {
+  color: white;
+  padding-bottom: 0.25rem;
+  border-bottom: 4px solid red;
+}
+
+.fontStyling {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.codeStyling {
+  font-family: "Roboto Mono", monospace;
+}
